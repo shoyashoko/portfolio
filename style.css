@@ -1,0 +1,35 @@
+div.silent{
+        text-align: center;
+        align-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+      }
+      
+
+div.some{
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    
+}
+.colo{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.foo {
+  width: 100%;
+  height: 60px;
+  background-color: #a4a7a8;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+.fontchange{
+  font-family: Open Sans;
+  
+}
+
+
